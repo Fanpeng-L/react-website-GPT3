@@ -1,1 +1,5 @@
-https://gpt-website-reactapp.netlify.app/  👈this is the website link.
+# Landing Page of GPT3
+
+[Click here to Try 🔗 ](https://gpt-landing-page-reactapp.netlify.app/)
+
+👀 Preview:
